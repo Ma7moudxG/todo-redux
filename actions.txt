@@ -1,9 +1,9 @@
 All actions: 
 1- Add todo
-2- Search action
-3- all notes
-4- completed notes
-5- incompleted notes
-6- toggle notes
-7- delete notes
-8- make all completed
+2- toggle todo
+3- remove todo 
+4- mark completed
+5- mark incomplete
+6- filter todos 
+7- mark all completed 
+8- update search term 
