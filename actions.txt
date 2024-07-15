@@ -1,0 +1,9 @@
+All actions: 
+1- Add todo
+2- Search action
+3- all notes
+4- completed notes
+5- incompleted notes
+6- toggle notes
+7- delete notes
+8- make all completed
